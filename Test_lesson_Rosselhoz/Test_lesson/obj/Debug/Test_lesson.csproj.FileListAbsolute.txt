@@ -1,0 +1,14 @@
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\bin\Debug\TestDB.mdf
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\bin\Debug\TestDB_log.ldf
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\bin\Debug\Test_lesson.exe.config
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\bin\Debug\Test_lesson.exe
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\bin\Debug\Test_lesson.pdb
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\obj\Debug\Test_lesson.csproj.AssemblyReference.cache
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\obj\Debug\Test_lesson.Form1.resources
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\obj\Debug\Test_lesson.Properties.Resources.resources
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\obj\Debug\Test_lesson.csproj.GenerateResource.cache
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\obj\Debug\Test_lesson.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\obj\Debug\Test_lesson.exe
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\obj\Debug\Test_lesson.pdb
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\obj\Debug\Interop.Office.dll
+C:\Users\Юрий\source\repos\Test_lesson\Test_lesson\obj\Debug\Test_lesson.csproj.ResolveComReference.cache
